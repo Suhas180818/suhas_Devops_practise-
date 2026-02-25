@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 This is the line 1 content
 THis is the second line cntent 
 This is the Third line file content 
 This is the Fourth line 
+=======
+>>>>>>> parent of 5b0eb59 (Second commit)
